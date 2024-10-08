@@ -1,0 +1,10 @@
+name: shiny-ohwhaley
+title: shiny-ohwhaley
+username: fontikar
+account: fontikar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12950777
+bundleId: 9195689
+url: https://unsw.shinyapps.io/shiny-ohwhaley/
+version: 1
